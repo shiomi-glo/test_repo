@@ -23,3 +23,7 @@ gem 'faraday'
 gem 'faraday_middleware'
 gem 'mysql2'
 gem 'nkf'
+
+# テスト用
+gem 'rest-client'
+gem 'test-unit'
